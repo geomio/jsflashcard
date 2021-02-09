@@ -1,7 +1,11 @@
 .frontbox{
-  padding: 2%;
-  margin: 2%;
-  border: chartreuse 4%;
+  margin: auto;
+  width: 50%;
+  border: 5% solid green;
+  padding: 5%;
+  text-align: center;
+  background-color: greenyellow;
+
 }
 
 #color1{
