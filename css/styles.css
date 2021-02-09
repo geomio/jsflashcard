@@ -1,3 +1,9 @@
+.frontbox{
+  padding: 2%;
+  margin: 2%;
+  border: chartreuse 4%;
+}
+
 #color1{
   text-align: center;
   background-color: blue;
