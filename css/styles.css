@@ -1,25 +1,92 @@
-#codeimage{
-  float: right;
-  width: 50%;
-  height: 50%;
-  padding: 4%;
-  margin: 4%;
-}
-
-body{
-  background-color:rgb(142, 173, 180) ;
+p{
+  text-align: center;
 }
 
 .panel > .panel-body {
   background-image: none;
-  background-color: rgb(124, 248, 176);
 }
 
-.panel-body {
-  text-align: center;
+#panelcolor1{
+  background-color: rgb(78, 78, 238);
 }
 
-.page-header{
-  background-image: none;
-  background-color: papayawhip;
+#panelcolor2{
+  background-color: rgb(130, 130, 240);
+}
+
+#panelcolor3{
+  background-color: rgb(126, 126, 175);
+}
+
+#panelcolor4{
+  background-color: rgb(0, 183, 255);
+}
+
+#panelcolor5{
+  background-color: rgb(123, 241, 250);
+}
+
+#panelcolor6{
+  background-color: rgb(123, 238, 177);
+}
+
+#panelcolor7{
+  background-color: rgb(77, 255, 187);
+}
+
+#panelcolor8{
+  background-color: rgb(53, 255, 137);
+}
+
+#panelcolor9{
+  background-color: rgb(109, 255, 104);
+}
+
+#panelcolor10{
+  background-color: rgb(97, 251, 92);
+}
+
+#panelcolor11{
+  background-color: rgb(74, 255, 50);
+}
+
+#panelcolor12{
+  background-color: rgb(102, 255, 14);
+}
+
+.define1{
+  display: none;
+}
+.define2{
+  display: none;
+}
+.define3{
+  display: none;
+}
+.define4{
+  display: none;
+}
+.define5{
+  display: none;
+}
+.define6{
+  display: none;
+}
+.define7{
+  display: none;
+}
+.define8{
+  display: none;
+}
+.define9{
+  display: none;
+}
+.define10{
+  display: none;
+}
+.define11{
+  display: none;
+}
+.define12{
+  display: none;
 }
